@@ -1,0 +1,4 @@
+[submodule "Camille0907/mis-builder"]
+	path = Camille0907/mis-builder
+	url = git@github.com:Camille0907/mis-builder.git
+	branch = 15.0
